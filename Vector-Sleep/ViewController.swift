@@ -4,7 +4,7 @@
 //
 //  Created by Andrei Kondaurov on 4/22/24.
 //
-
+import SnapKit
 import UIKit
 
 class ViewController: UIViewController {
